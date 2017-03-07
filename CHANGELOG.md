@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Unreleased
+
+### Breaking changes
+
+* Support Trading API version 995.
+
 ## 9.0.1 - 2017-03-06
 
 ### Fixes
