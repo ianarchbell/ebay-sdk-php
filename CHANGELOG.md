@@ -6,6 +6,10 @@
 
 * Support Trading API version 995.
 
+## Features
+
+* Can now use SDK to handle generation of OAUTH tokens for the RESTFul services.
+
 ## 9.0.1 - 2017-03-06
 
 ### Fixes
